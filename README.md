@@ -13,3 +13,7 @@ Geethoob Desktop currently runs on Windows (64-bit).
 Run the installer. It installs for your user account only and doesn't need admin rights.
 
 The installer isn't code-signed yet, so Windows SmartScreen may warn you the first time. Click **More info**, then **Run anyway**.
+
+## License
+
+Free to use, including at work, and to share and modify. Selling it, or charging for a product or service based on it, is not allowed. See [LICENSE](LICENSE) (MIT with the Commons Clause).
