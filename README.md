@@ -17,6 +17,12 @@ Unified or split. Stage hunks or single lines.
   <img src="images/diff-split.png" alt="Split diff" width="49%">
 </p>
 
+### Line-by-line blame
+
+See who last changed any line, and in which commit.
+
+![Line blame](images/line-blame.png)
+
 ### Push up to a commit
 
 Push only part of your unpushed work.
